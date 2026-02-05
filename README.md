@@ -1,4 +1,4 @@
-# ml-from-scratch-patrick-loeber
+# Machine Learning from Scratch
 Implementation of machine learning algorithms from scratch using Python and NumPy. Following Patrick Loeber's series.
 This repository contains implementations of various machine learning algorithms built from scratch using Python and NumPy.
 
